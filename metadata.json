@@ -1,0 +1,6 @@
+{
+  "name": "GES-FIN - Gestion des Décaissements & Remboursements",
+  "description": "Application GES-FIN de gestion financière des décaissements et remboursements avec calculs automatisés, alertes et exports Excel/Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
